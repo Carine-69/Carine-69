@@ -1,3 +1,24 @@
 .main{
     text-align: center;
+        font-family: "Courier New", Courier, monospace;
+        margin-top: 40px;
+}
+.city{
+    color: black;
+        background-color: thistle;
+        padding: 20px;
+        width: 500px;
+        border-radius: 5px;
+        border: none;
+        margin: 20px;
+    }
+.search{
+    margin-left: 5px;
+        font-size: 16px;
+        background-color: #5d87f1;
+        color: white;
+        border: none;
+        padding: 20px;
+        line-height: 1;
+        border-radius: 5px;
 }
