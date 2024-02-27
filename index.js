@@ -55,3 +55,4 @@ function handleSearchSubmit(event) {
 
 let searchFormElement = document.querySelector(".searchForm");
 searchFormElement.addEventListener("submit", handleSearchSubmit);
+searchCity("Kigali")
