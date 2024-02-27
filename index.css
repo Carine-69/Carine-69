@@ -1,6 +1,6 @@
 .main{
     text-align: center;
-        font-family: "Courier New", Courier, monospace;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         margin-top: 40px;
         background-color: rgb(208, 208, 205);
 }
@@ -14,8 +14,8 @@
         margin: 20px;
     }
 .search{
-    margin-left: 5px;
-        font-size: 16px;
+    margin-top: 0px;
+        font-size: 18px;
         background-color: #5d87f1;
         color: white;
         border: none;
@@ -23,3 +23,20 @@
         line-height: 1;
         border-radius: 5px;
 }
+ .App {
+    background-color: white;
+    margin:20px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 350px ;
+    margin-right:400px ;
+    height: 450px;
+    font-size: 16px;
+    font-weight:normal;
+    border-radius: 10px;
+    box-shadow:0 30px 50px rgba(65, 50, 100, 0.08);
+ }
+ .grid-container{
+    display: flex;
+    justify-content: center;
+ }
